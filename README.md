@@ -45,7 +45,7 @@ Execute tx:
 You should see the amount of tokens that you minted
 
 
-# STEP5. Broadcasting {ExecuteContract}
+# STEP 5. Broadcasting {ExecuteContract}
 Here we gonna send some tokens to another wallet (Receiver wallet)
 Create $transfer variable (Change RECEIVER_WALLET_ADRESS to your receiver wallet address)
 
