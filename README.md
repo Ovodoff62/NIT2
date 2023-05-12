@@ -63,3 +63,5 @@ Rewrite Variable $BALANCE_QUERY (Set receiver wallet address instead of RECEIVER
 Execute tx:
     nibid query wasm contract-state smart $contract "$BALANCE_QUERY" --output json
 
+# Video version of the guide:
+<iframe width="640" height="360" src="https://www.youtube.com/embed/dKt3AdahyW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
